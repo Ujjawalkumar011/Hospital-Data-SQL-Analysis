@@ -1,0 +1,55 @@
+# Hospital Data Analysis using SQL
+
+## 📌 Project Overview
+
+This project is a practical SQL data analysis project completed as part of the **30 Days SQL Micro Course**.
+
+The project uses hospital data stored in an Excel dataset and analyzes it using **PostgreSQL and pgAdmin**.
+
+## 🛠️ Tools & Technologies
+
+- PostgreSQL
+- pgAdmin 4
+- SQL
+- Excel
+
+## 🔍 Analysis Performed
+
+1. Total Number of Patients
+2. Average Number of Doctors per Hospital
+3. Top 3 Departments with the Highest Number of Patients
+4. Hospital with the Maximum Medical Expenses
+5. Daily Average Medical Expenses
+6. Longest Hospital Stay
+7. Total Patients Treated Per City
+8. Average Length of Stay Per Department
+9. Department with the Lowest Number of Patients
+10. Monthly Medical Expenses Report
+
+## 💡 SQL Concepts Used
+
+- SELECT
+- SUM()
+- AVG()
+- GROUP BY
+- ORDER BY
+- LIMIT
+- DATEDIFF
+- Date Functions
+- Aggregate Functions
+
+## 📂 Project Files
+
+- `Hospital_Data.xlsx` — Hospital dataset
+- `Hospital_Data_SQL_Analysis.sql` — SQL queries used for analysis
+- `30_Days_SQL_Hospital_Assignment.pdf` — Completed assignment
+
+## 🎯 Learning Outcome
+
+This project helped me strengthen my practical SQL skills and understand how SQL can be used to analyze real-world hospital data and generate useful insights.
+
+## 👨‍💻 Author
+
+**Ujjawal Kumar**
+
+SQL | Data Analytics | AI/ML
